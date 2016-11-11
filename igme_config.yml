@@ -1,0 +1,16 @@
+series: Vector Mathematics
+title: Scalar Triple Product
+author:
+  name: Andrew Litfin
+  email:
+  github: astrodude80
+description: This example defines the scalar triple product and its relation to the volume of a parallelepiped.
+language: C++
+tags:
+  - Math
+extra_resources:
+  - title: The Wikipedia article on the Scalar triple product.
+    link: https://en.wikipedia.org/wiki/Triple_product#Scalar_triple_product
+connections:
+  - series: Vector Mathematics
+    title: Projection and Rejection
